@@ -1,0 +1,301 @@
+lead_id,company,contact_name,job_title,industry,employees,lead_source,website_visits,email_opens,email_clicks,pricing_page_visits,past_meetings,days_since_last_contact,demo_requested,budget_confirmed,purchase_timeline,created_date,converted
+L1000,Astra Industries,Anjali Mehta,Operations Manager,Logistics,103,Trade Show,7,4,0,2,0,56,No,No,3-6 months,2026-03-31,0
+L1001,Vertex Solutions,Rohan Joshi,Procurement Head,Education,98,Website,4,4,1,0,2,6,Yes,No,1-3 months,2026-07-30,0
+L1002,Nova Group,Karan Joshi,VP Operations,Construction,349,LinkedIn,13,5,0,1,3,90,Yes,Yes,1-3 months,2026-09-24,1
+L1003,Delta Solutions,Neha Kapoor,Procurement Head,Energy,225,Cold List,9,5,6,0,1,62,No,No,1-3 months,2026-07-12,0
+L1004,Apex Solutions,Rohan Mehta,VP Operations,Manufacturing,435,Partner,13,3,0,1,0,74,No,Yes,1-3 months,2026-06-08,0
+L1005,Zenith Traders,Anjali Kapoor,Purchase Manager,Healthcare,301,Webinar,13,4,2,4,3,74,Yes,Yes,Immediate,2026-06-26,1
+L1006,Bharat Systems,Priya Gupta,CEO,Retail,423,Website,3,9,2,1,0,14,No,No,1-3 months,2026-05-07,0
+L1007,Vertex Systems,Vikram Singh,Marketing Manager,Education,152,Website,7,3,3,4,1,23,No,No,3-6 months,2026-06-09,0
+L1008,Bharat Industries,Rohan Verma,Purchase Manager,Logistics,460,Website,12,4,4,4,2,60,No,No,1-3 months,2026-09-14,0
+L1009,Delta Systems,Rohan Mehta,Marketing Manager,Construction,685,Referral,13,6,3,3,0,1,No,No,Immediate,2026-07-18,1
+L1010,Vertex Systems,Vikram Singh,VP Operations,Logistics,64,Website,4,2,0,2,0,21,No,Yes,3-6 months,2026-06-15,0
+L1011,Kiran Enterprises,Sanjay Gupta,Procurement Head,Manufacturing,31,Website,4,1,0,1,0,19,No,No,1-3 months,2026-04-21,0
+L1012,Orion Solutions,Rahul Joshi,Operations Manager,Healthcare,1313,Website,13,6,5,1,2,61,No,Yes,Immediate,2026-09-09,0
+L1013,Metro Infra,Rohan Singh,Purchase Manager,Healthcare,212,Trade Show,9,4,1,0,1,147,No,No,3-6 months,2026-04-28,0
+L1014,Apex Infra,Rohan Gupta,Founder,Hospitality,38,LinkedIn,12,4,4,3,0,6,Yes,No,1-3 months,2026-08-06,0
+L1015,Prime Industries,Vikram Verma,Operations Manager,Real Estate,78,Trade Show,6,3,0,2,3,36,No,No,3-6 months,2026-05-23,1
+L1016,Metro Industries,Aarav Mehta,Procurement Head,Energy,301,LinkedIn,3,3,0,2,0,76,No,No,3-6 months,2026-05-19,1
+L1017,Apex Industries,Sanjay Singh,Founder,Manufacturing,111,Trade Show,9,1,1,1,0,23,Yes,No,3-6 months,2026-04-29,0
+L1018,Orion Enterprises,Rahul Singh,Founder,Real Estate,122,Website,8,11,3,2,3,32,No,No,1-3 months,2026-06-05,0
+L1019,Vertex Industries,Rahul Gupta,Operations Manager,Logistics,767,Trade Show,4,5,0,2,2,12,No,No,1-3 months,2026-07-29,1
+L1020,Bharat Traders,Karan Joshi,CEO,Healthcare,75,Partner,4,9,2,5,3,59,No,No,1-3 months,2026-06-12,0
+L1021,Kiran Traders,Aarav Malhotra,VP Operations,Healthcare,64,Webinar,3,3,2,1,1,81,Yes,Yes,3-6 months,2026-04-03,0
+L1022,Nova Traders,Vikram Mehta,Operations Manager,Construction,288,Website,10,5,2,3,2,21,No,No,1-3 months,2026-05-16,0
+L1023,Prime Enterprises,Meera Nair,CEO,Energy,205,Cold List,2,2,2,1,4,25,No,Yes,3-6 months,2026-04-27,0
+L1024,Nova Infra,Aarav Kapoor,CEO,Logistics,354,Trade Show,9,7,1,2,2,12,Yes,Yes,1-3 months,2026-06-10,0
+L1025,Orion Industries,Meera Malhotra,VP Operations,Real Estate,499,Referral,10,4,1,2,2,3,No,No,1-3 months,2026-09-08,0
+L1026,Bharat Group,Anjali Nair,CEO,Manufacturing,150,Website,4,1,0,0,0,51,No,No,Not sure,2026-09-19,0
+L1027,Apex Systems,Anjali Kapoor,CEO,Hospitality,375,Webinar,6,4,3,1,1,79,No,Yes,1-3 months,2026-09-25,0
+L1028,Orion Infra,Isha Malhotra,CEO,Healthcare,132,LinkedIn,6,0,1,2,1,6,No,No,3-6 months,2026-04-19,1
+L1029,Nova Enterprises,Karan Joshi,Marketing Manager,Logistics,341,LinkedIn,16,6,2,3,1,13,Yes,No,Immediate,2026-06-25,1
+L1030,Astra Traders,Vikram Mehta,Operations Manager,Energy,177,Website,6,4,1,0,1,113,No,No,3-6 months,2026-04-07,0
+L1031,Kiran Solutions,Isha Sharma,Operations Manager,Hospitality,359,Website,9,8,3,6,1,49,Yes,Yes,Immediate,2026-06-27,1
+L1032,Metro Infra,Sanjay Sharma,Operations Manager,Manufacturing,308,Webinar,5,1,1,1,1,74,Yes,No,3-6 months,2026-07-11,0
+L1033,Sunrise Group,Karan Mehta,Founder,Logistics,204,Website,4,2,0,0,0,1,No,No,Not sure,2026-08-16,0
+L1034,Delta Group,Anjali Mehta,Founder,Hospitality,267,Cold List,14,4,3,1,2,38,No,Yes,Immediate,2026-05-29,0
+L1035,Sunrise Infra,Anjali Mehta,Purchase Manager,Education,50,LinkedIn,3,2,0,0,0,23,No,No,Not sure,2026-04-05,0
+L1036,Kiran Group,Anjali Reddy,Operations Manager,Energy,137,Website,0,1,0,0,0,88,No,No,Not sure,2026-06-19,0
+L1037,Metro Group,Isha Reddy,Marketing Manager,Retail,260,Website,9,5,3,1,1,8,Yes,Yes,Immediate,2026-06-14,1
+L1038,Metro Enterprises,Meera Kapoor,Purchase Manager,Construction,206,Referral,7,6,1,4,1,0,No,Yes,3-6 months,2026-07-20,0
+L1039,Orion Solutions,Pooja Verma,Marketing Manager,Construction,1758,Partner,12,6,4,3,2,31,Yes,No,1-3 months,2026-04-16,0
+L1040,Zenith Systems,Sanjay Gupta,CEO,Real Estate,143,Partner,8,6,2,4,1,12,Yes,No,1-3 months,2026-07-18,0
+L1041,Bharat Solutions,Rohan Joshi,Founder,Hospitality,355,Website,11,3,3,1,3,33,No,Yes,1-3 months,2026-06-10,0
+L1042,Kiran Industries,Aarav Kapoor,Marketing Manager,Healthcare,471,Cold List,3,5,2,0,0,17,No,No,3-6 months,2026-08-10,0
+L1043,Metro Traders,Isha Malhotra,Operations Manager,Logistics,122,Website,4,0,1,0,1,100,No,No,Not sure,2026-09-23,0
+L1044,Apex Enterprises,Sanjay Kapoor,Marketing Manager,Energy,1431,Webinar,5,3,0,0,0,40,No,No,3-6 months,2026-05-09,0
+L1045,Delta Systems,Neha Kapoor,CEO,Construction,100,Partner,5,3,1,1,1,16,No,No,3-6 months,2026-08-12,0
+L1046,Prime Group,Neha Singh,CEO,Energy,368,Webinar,12,5,1,3,0,41,Yes,Yes,Immediate,2026-04-21,0
+L1047,Orion Group,Neha Mehta,Operations Manager,Construction,129,LinkedIn,10,7,2,0,1,70,Yes,Yes,Immediate,2026-09-23,1
+L1048,Metro Technologies,Sanjay Gupta,VP Operations,Construction,85,Website,5,1,1,0,0,145,No,No,Not sure,2026-06-24,0
+L1049,Vertex Infra,Isha Nair,Operations Manager,Healthcare,211,LinkedIn,7,3,1,3,1,180,No,No,3-6 months,2026-08-11,0
+L1050,Metro Infra,Meera Malhotra,VP Operations,Construction,739,LinkedIn,11,3,3,1,1,30,No,No,Immediate,2026-08-16,0
+L1051,Prime Group,Anjali Singh,VP Operations,Manufacturing,231,Partner,5,2,2,2,1,48,Yes,No,3-6 months,2026-07-17,0
+L1052,Metro Systems,Pooja Reddy,Marketing Manager,Logistics,784,Trade Show,8,7,2,2,2,3,Yes,No,1-3 months,2026-06-07,0
+L1053,Sunrise Group,Meera Gupta,Founder,Energy,198,Cold List,14,8,1,1,1,10,No,Yes,1-3 months,2026-08-12,0
+L1054,Kiran Enterprises,Rohan Verma,Procurement Head,Logistics,152,Website,9,4,5,0,3,15,No,No,1-3 months,2026-06-23,0
+L1055,Vertex Group,Rohan Verma,Founder,Construction,2400,Referral,8,1,3,0,1,40,No,Yes,3-6 months,2026-07-26,0
+L1056,Sunrise Technologies,Sanjay Sharma,Procurement Head,Construction,188,Cold List,3,0,0,1,0,107,No,No,Not sure,2026-07-18,0
+L1057,Vertex Enterprises,Meera Malhotra,Purchase Manager,Real Estate,96,Cold List,13,3,0,4,0,26,No,No,1-3 months,2026-06-21,0
+L1058,Vertex Systems,Isha Mehta,CEO,Healthcare,115,Website,6,9,1,0,2,10,No,No,1-3 months,2026-04-20,0
+L1059,Kiran Systems,Aarav Kapoor,VP Operations,Real Estate,45,Website,5,1,0,0,1,32,No,No,Not sure,2026-05-21,0
+L1060,Apex Group,Aarav Nair,Marketing Manager,Logistics,860,Webinar,12,8,8,5,2,0,Yes,Yes,Immediate,2026-09-14,0
+L1061,Delta Industries,Sanjay Verma,Founder,Logistics,72,LinkedIn,2,0,0,1,0,21,No,No,Not sure,2026-07-01,0
+L1062,Sunrise Solutions,Sanjay Verma,CEO,Energy,122,Website,1,0,0,0,0,2,No,No,Not sure,2026-07-22,0
+L1063,Delta Technologies,Rohan Kapoor,Founder,Energy,118,Referral,3,4,1,0,0,45,Yes,No,Not sure,2026-05-15,0
+L1064,Kiran Group,Pooja Gupta,CEO,Real Estate,316,Trade Show,4,6,1,0,0,143,No,No,3-6 months,2026-08-04,0
+L1065,Astra Solutions,Pooja Malhotra,Operations Manager,Manufacturing,77,Cold List,7,1,3,2,1,26,No,No,3-6 months,2026-06-25,1
+L1066,Metro Enterprises,Isha Verma,CEO,Healthcare,58,LinkedIn,7,5,1,1,0,70,No,No,3-6 months,2026-05-08,0
+L1067,Metro Traders,Priya Nair,Purchase Manager,Retail,228,Webinar,8,4,0,0,1,55,No,No,1-3 months,2026-04-25,1
+L1068,Delta Systems,Pooja Kapoor,VP Operations,Energy,269,Referral,3,6,3,0,1,54,No,No,3-6 months,2026-06-09,0
+L1069,Delta Traders,Anjali Gupta,Marketing Manager,Real Estate,422,Cold List,11,2,6,1,2,49,Yes,Yes,Immediate,2026-07-09,0
+L1070,Kiran Infra,Pooja Gupta,Operations Manager,Energy,67,Cold List,5,1,0,1,0,46,Yes,Yes,3-6 months,2026-05-19,0
+L1071,Bharat Enterprises,Vikram Malhotra,CEO,Retail,328,Website,5,4,1,2,0,50,No,No,3-6 months,2026-05-13,0
+L1072,Nova Technologies,Karan Gupta,Founder,Healthcare,60,Trade Show,6,1,0,1,1,25,Yes,No,Not sure,2026-05-17,0
+L1073,Kiran Industries,Aarav Mehta,Purchase Manager,Manufacturing,102,Website,3,3,1,0,1,67,No,No,3-6 months,2026-05-21,0
+L1074,Zenith Infra,Pooja Mehta,Operations Manager,Real Estate,103,Website,18,6,5,3,1,6,Yes,Yes,Immediate,2026-08-10,0
+L1075,Astra Group,Sanjay Gupta,Founder,Manufacturing,1120,Partner,13,4,3,2,3,33,Yes,Yes,Immediate,2026-06-27,0
+L1076,Nova Infra,Isha Joshi,Purchase Manager,Logistics,419,Referral,6,4,0,4,0,152,No,No,1-3 months,2026-06-22,1
+L1077,Kiran Enterprises,Meera Joshi,Founder,Energy,344,Webinar,6,5,1,3,2,14,Yes,No,1-3 months,2026-04-28,1
+L1078,Kiran Industries,Karan Singh,Founder,Real Estate,570,LinkedIn,8,4,2,0,2,70,No,Yes,3-6 months,2026-07-06,0
+L1079,Zenith Industries,Sanjay Kapoor,Founder,Logistics,3747,Partner,7,7,1,2,2,55,No,Yes,1-3 months,2026-09-19,0
+L1080,Kiran Technologies,Rahul Gupta,VP Operations,Energy,27,Webinar,2,4,2,3,0,4,Yes,Yes,3-6 months,2026-08-11,0
+L1081,Astra Enterprises,Sanjay Sharma,Marketing Manager,Real Estate,102,Website,10,5,2,1,2,46,Yes,No,1-3 months,2026-06-18,1
+L1082,Apex Industries,Karan Reddy,Founder,Healthcare,99,Webinar,5,6,1,0,1,33,Yes,No,1-3 months,2026-05-24,0
+L1083,Vertex Technologies,Vikram Malhotra,Operations Manager,Hospitality,83,Partner,9,4,1,0,0,28,No,No,1-3 months,2026-06-01,0
+L1084,Nova Traders,Rahul Sharma,Procurement Head,Manufacturing,91,Website,12,9,3,1,1,67,No,Yes,Immediate,2026-04-03,0
+L1085,Bharat Group,Rohan Gupta,CEO,Real Estate,91,Website,6,1,1,0,0,24,No,No,Not sure,2026-04-04,0
+L1086,Bharat Group,Rahul Reddy,VP Operations,Hospitality,57,Trade Show,5,4,2,0,1,174,No,No,1-3 months,2026-08-16,0
+L1087,Orion Industries,Sanjay Kapoor,Purchase Manager,Logistics,244,Cold List,4,6,0,1,2,35,No,Yes,3-6 months,2026-08-28,0
+L1088,Delta Traders,Isha Sharma,Procurement Head,Construction,223,Partner,13,5,5,2,1,3,Yes,Yes,1-3 months,2026-09-20,0
+L1089,Kiran Systems,Neha Singh,Purchase Manager,Retail,335,Cold List,4,6,0,0,0,4,No,No,1-3 months,2026-07-20,0
+L1090,Astra Infra,Vikram Joshi,Operations Manager,Construction,327,Cold List,8,7,2,3,2,76,No,No,1-3 months,2026-09-13,0
+L1091,Kiran Systems,Neha Singh,Purchase Manager,Manufacturing,469,LinkedIn,11,5,5,4,1,49,Yes,No,Immediate,2026-06-12,0
+L1092,Astra Enterprises,Rohan Verma,VP Operations,Retail,208,Trade Show,13,4,5,2,4,33,Yes,Yes,Immediate,2026-05-14,0
+L1093,Apex Systems,Rohan Verma,VP Operations,Logistics,1412,Trade Show,6,2,1,2,1,4,Yes,No,3-6 months,2026-05-13,0
+L1094,Prime Solutions,Karan Mehta,CEO,Healthcare,185,Trade Show,1,2,1,1,0,56,Yes,No,3-6 months,2026-05-11,0
+L1095,Orion Traders,Anjali Mehta,CEO,Real Estate,17,Trade Show,1,2,0,0,1,180,No,No,Not sure,2026-08-11,0
+L1096,Nova Group,Sanjay Kapoor,VP Operations,Hospitality,118,Referral,20,8,4,4,1,35,Yes,Yes,Immediate,2026-03-31,0
+L1097,Bharat Enterprises,Karan Nair,Marketing Manager,Real Estate,23,Cold List,3,2,0,0,1,17,No,No,Not sure,2026-09-16,0
+L1098,Bharat Infra,Sanjay Nair,Marketing Manager,Healthcare,166,Website,4,2,0,0,2,77,No,No,3-6 months,2026-08-16,0
+L1099,Apex Infra,Neha Malhotra,CEO,Manufacturing,155,LinkedIn,11,0,1,1,2,3,Yes,No,3-6 months,2026-06-06,0
+L1100,Metro Traders,Neha Mehta,CEO,Manufacturing,88,Website,5,4,1,0,0,21,No,No,3-6 months,2026-08-03,0
+L1101,Astra Solutions,Meera Mehta,CEO,Hospitality,1254,Referral,5,3,0,1,2,121,No,No,3-6 months,2026-04-23,0
+L1102,Kiran Enterprises,Rohan Malhotra,Purchase Manager,Hospitality,520,Website,14,4,4,3,2,42,Yes,Yes,Immediate,2026-06-15,0
+L1103,Kiran Infra,Aarav Gupta,Procurement Head,Education,213,Website,1,2,0,0,0,105,No,No,Not sure,2026-04-18,0
+L1104,Delta Systems,Pooja Joshi,Purchase Manager,Energy,58,Website,1,3,0,1,0,59,No,No,3-6 months,2026-04-19,0
+L1105,Nova Industries,Neha Joshi,Operations Manager,Manufacturing,53,Webinar,7,2,1,2,0,115,No,No,3-6 months,2026-03-31,0
+L1106,Vertex Traders,Pooja Sharma,Purchase Manager,Education,217,Webinar,10,9,4,5,1,14,No,No,1-3 months,2026-08-20,0
+L1107,Delta Group,Vikram Mehta,Marketing Manager,Retail,148,Website,3,2,5,2,0,173,No,No,Not sure,2026-08-10,0
+L1108,Bharat Enterprises,Neha Gupta,Founder,Energy,22,Website,2,1,3,0,1,88,Yes,No,3-6 months,2026-09-06,1
+L1109,Zenith Infra,Rohan Verma,Purchase Manager,Healthcare,121,Cold List,9,0,1,1,1,5,No,No,3-6 months,2026-09-22,1
+L1110,Prime Enterprises,Vikram Mehta,Procurement Head,Education,178,Partner,4,3,2,3,1,82,No,No,3-6 months,2026-09-19,0
+L1111,Astra Group,Rohan Gupta,Operations Manager,Energy,126,Webinar,5,3,1,1,1,45,Yes,Yes,3-6 months,2026-09-24,0
+L1112,Kiran Systems,Rohan Joshi,Procurement Head,Healthcare,60,Webinar,6,2,2,1,0,48,Yes,No,3-6 months,2026-04-01,0
+L1113,Nova Group,Rohan Malhotra,Marketing Manager,Hospitality,140,Website,8,6,4,4,3,62,No,Yes,1-3 months,2026-08-18,0
+L1114,Nova Industries,Karan Kapoor,Founder,Logistics,227,Website,7,6,6,0,0,14,No,Yes,Immediate,2026-08-07,1
+L1115,Astra Traders,Meera Gupta,Purchase Manager,Retail,236,Trade Show,6,4,2,0,2,3,No,No,1-3 months,2026-04-28,0
+L1116,Bharat Traders,Meera Gupta,Operations Manager,Energy,535,Cold List,17,6,4,3,0,93,No,No,Immediate,2026-04-23,0
+L1117,Apex Systems,Neha Gupta,Procurement Head,Education,403,Webinar,4,2,0,0,0,180,No,No,3-6 months,2026-09-21,0
+L1118,Prime Systems,Priya Verma,Founder,Education,161,Trade Show,11,6,5,2,2,60,Yes,No,1-3 months,2026-09-04,0
+L1119,Prime Traders,Aarav Malhotra,CEO,Education,92,Referral,3,2,1,0,0,87,No,No,3-6 months,2026-05-28,0
+L1120,Apex Industries,Karan Mehta,Procurement Head,Healthcare,358,Webinar,9,5,5,1,1,61,No,No,1-3 months,2026-04-12,0
+L1121,Kiran Enterprises,Pooja Gupta,Operations Manager,Manufacturing,339,Website,7,5,3,0,1,180,No,No,1-3 months,2026-05-29,0
+L1122,Delta Group,Vikram Kapoor,Operations Manager,Real Estate,136,Referral,9,9,5,2,4,3,Yes,No,1-3 months,2026-03-30,0
+L1123,Orion Technologies,Meera Singh,VP Operations,Logistics,284,Trade Show,5,3,0,1,0,3,Yes,No,Not sure,2026-07-31,0
+L1124,Delta Solutions,Priya Sharma,Founder,Education,662,Trade Show,20,7,4,2,2,11,No,Yes,Immediate,2026-06-06,1
+L1125,Zenith Technologies,Neha Verma,Operations Manager,Logistics,981,LinkedIn,11,7,3,4,1,29,Yes,No,Immediate,2026-04-07,0
+L1126,Nova Group,Isha Nair,VP Operations,Logistics,619,Website,2,2,1,0,0,100,No,No,Not sure,2026-09-22,0
+L1127,Metro Enterprises,Anjali Joshi,Procurement Head,Construction,48,Trade Show,7,1,0,1,0,48,No,No,Not sure,2026-08-25,0
+L1128,Nova Industries,Neha Gupta,Procurement Head,Hospitality,231,Website,7,6,4,2,3,43,No,No,1-3 months,2026-09-08,0
+L1129,Delta Group,Vikram Malhotra,Procurement Head,Real Estate,158,Referral,9,1,2,0,0,32,No,Yes,3-6 months,2026-09-25,0
+L1130,Kiran Enterprises,Meera Kapoor,Founder,Manufacturing,159,Referral,0,1,1,2,0,31,Yes,Yes,3-6 months,2026-04-01,0
+L1131,Kiran Solutions,Rohan Kapoor,VP Operations,Education,61,Trade Show,6,3,1,0,0,29,Yes,No,Not sure,2026-08-16,0
+L1132,Orion Solutions,Aarav Gupta,Marketing Manager,Construction,42,Cold List,13,8,5,2,1,43,No,No,1-3 months,2026-08-18,0
+L1133,Delta Solutions,Karan Sharma,Procurement Head,Manufacturing,227,Referral,6,2,2,2,1,5,No,No,1-3 months,2026-08-17,0
+L1134,Orion Systems,Rahul Kapoor,Procurement Head,Manufacturing,109,Website,13,1,2,1,1,3,Yes,No,1-3 months,2026-05-16,0
+L1135,Bharat Industries,Karan Singh,Marketing Manager,Logistics,333,LinkedIn,14,9,3,2,3,18,Yes,Yes,Immediate,2026-06-08,0
+L1136,Delta Infra,Neha Nair,Procurement Head,Manufacturing,51,LinkedIn,4,1,1,0,0,29,No,No,Not sure,2026-09-13,0
+L1137,Bharat Group,Karan Joshi,Operations Manager,Hospitality,52,Website,8,4,0,0,1,23,Yes,No,3-6 months,2026-04-10,0
+L1138,Bharat Traders,Meera Verma,Purchase Manager,Logistics,247,Trade Show,16,1,2,0,2,104,Yes,No,1-3 months,2026-07-23,0
+L1139,Vertex Infra,Neha Joshi,VP Operations,Energy,227,Trade Show,9,1,1,1,2,180,No,Yes,1-3 months,2026-08-19,0
+L1140,Bharat Industries,Neha Malhotra,Operations Manager,Manufacturing,343,Cold List,13,4,1,2,2,43,Yes,No,1-3 months,2026-08-20,0
+L1141,Delta Technologies,Neha Joshi,Purchase Manager,Logistics,1385,Partner,7,2,2,0,1,9,No,Yes,3-6 months,2026-07-15,0
+L1142,Kiran Traders,Pooja Mehta,VP Operations,Construction,200,Cold List,3,0,1,1,1,84,No,Yes,3-6 months,2026-08-15,0
+L1143,Astra Technologies,Aarav Kapoor,Purchase Manager,Education,248,Referral,3,5,0,1,1,44,No,No,3-6 months,2026-09-09,0
+L1144,Vertex Group,Rohan Reddy,CEO,Energy,40,LinkedIn,5,4,1,0,1,92,No,No,Not sure,2026-08-14,0
+L1145,Nova Group,Pooja Joshi,Procurement Head,Logistics,40,Referral,5,3,2,2,0,56,Yes,No,3-6 months,2026-04-19,0
+L1146,Vertex Industries,Aarav Kapoor,Purchase Manager,Manufacturing,857,Partner,10,2,1,1,1,5,Yes,No,3-6 months,2026-05-13,0
+L1147,Bharat Enterprises,Neha Joshi,Marketing Manager,Construction,113,Referral,11,1,6,4,2,31,Yes,Yes,Immediate,2026-05-23,0
+L1148,Vertex Infra,Meera Gupta,VP Operations,Construction,91,Website,5,4,0,5,0,34,No,No,Immediate,2026-05-30,0
+L1149,Orion Infra,Anjali Verma,Founder,Manufacturing,282,Webinar,13,6,2,1,1,103,Yes,No,Immediate,2026-06-02,1
+L1150,Zenith Industries,Pooja Gupta,Procurement Head,Healthcare,124,Partner,2,1,0,0,0,142,No,No,3-6 months,2026-05-08,0
+L1151,Bharat Technologies,Priya Reddy,Procurement Head,Education,68,Website,5,2,2,2,0,180,No,No,3-6 months,2026-07-30,1
+L1152,Delta Systems,Sanjay Reddy,Purchase Manager,Education,206,Website,10,3,5,3,1,87,Yes,No,Immediate,2026-04-18,0
+L1153,Delta Infra,Karan Reddy,Operations Manager,Energy,1115,LinkedIn,11,8,6,1,1,2,Yes,No,Immediate,2026-08-18,1
+L1154,Vertex Industries,Rahul Singh,VP Operations,Hospitality,81,Cold List,5,3,4,1,1,3,Yes,No,1-3 months,2026-07-26,0
+L1155,Sunrise Infra,Isha Joshi,Founder,Logistics,31,Trade Show,5,1,0,1,0,129,Yes,No,Not sure,2026-09-18,0
+L1156,Metro Traders,Pooja Malhotra,CEO,Manufacturing,419,Partner,5,4,1,2,1,79,No,No,3-6 months,2026-03-31,0
+L1157,Astra Industries,Isha Gupta,Purchase Manager,Manufacturing,282,Webinar,7,3,4,0,1,4,Yes,No,3-6 months,2026-05-22,0
+L1158,Sunrise Industries,Isha Joshi,VP Operations,Logistics,109,Cold List,6,7,3,3,0,6,No,Yes,1-3 months,2026-09-07,0
+L1159,Apex Traders,Priya Nair,Operations Manager,Real Estate,58,Referral,20,5,4,3,4,38,Yes,No,Immediate,2026-06-26,1
+L1160,Kiran Solutions,Priya Reddy,Founder,Manufacturing,80,Website,3,10,5,0,2,30,No,No,3-6 months,2026-07-08,1
+L1161,Prime Enterprises,Isha Verma,Operations Manager,Education,285,Cold List,13,8,1,4,1,37,No,Yes,Immediate,2026-04-04,1
+L1162,Apex Infra,Vikram Joshi,Marketing Manager,Healthcare,961,Cold List,12,11,4,2,1,11,Yes,No,Immediate,2026-08-14,1
+L1163,Astra Enterprises,Anjali Malhotra,VP Operations,Logistics,101,Website,4,6,7,2,2,8,No,No,Immediate,2026-05-14,0
+L1164,Prime Group,Aarav Joshi,Procurement Head,Education,125,Trade Show,5,3,1,2,0,180,No,No,3-6 months,2026-09-19,0
+L1165,Metro Group,Isha Malhotra,Marketing Manager,Education,456,Website,6,5,4,0,3,15,Yes,No,1-3 months,2026-06-05,0
+L1166,Kiran Industries,Neha Malhotra,Operations Manager,Education,11,LinkedIn,10,1,0,1,0,153,No,Yes,Not sure,2026-05-02,0
+L1167,Bharat Infra,Vikram Singh,VP Operations,Energy,361,Referral,9,3,1,0,0,23,No,Yes,Not sure,2026-07-14,0
+L1168,Sunrise Systems,Vikram Nair,Founder,Hospitality,82,Partner,12,4,6,4,0,0,Yes,Yes,Immediate,2026-06-23,0
+L1169,Metro Solutions,Meera Mehta,Founder,Logistics,188,Trade Show,5,4,1,0,0,0,No,No,3-6 months,2026-06-22,0
+L1170,Delta Systems,Aarav Malhotra,Founder,Healthcare,165,Webinar,3,2,1,1,0,43,No,No,Not sure,2026-09-16,0
+L1171,Bharat Infra,Rohan Sharma,Purchase Manager,Hospitality,812,Trade Show,10,7,2,2,5,37,Yes,No,Immediate,2026-06-03,0
+L1172,Bharat Industries,Meera Mehta,Purchase Manager,Construction,295,Website,6,3,1,1,4,5,No,No,3-6 months,2026-06-09,0
+L1173,Prime Traders,Meera Kapoor,CEO,Logistics,12,Cold List,5,5,2,0,3,28,No,No,3-6 months,2026-07-20,0
+L1174,Nova Technologies,Neha Gupta,Founder,Construction,67,LinkedIn,4,6,0,0,2,31,No,No,3-6 months,2026-04-29,0
+L1175,Delta Traders,Karan Joshi,Purchase Manager,Energy,315,Website,14,8,3,4,1,17,Yes,No,Immediate,2026-08-26,0
+L1176,Nova Infra,Meera Singh,Marketing Manager,Real Estate,90,LinkedIn,7,2,0,0,0,106,No,No,Not sure,2026-05-10,0
+L1177,Zenith Traders,Meera Malhotra,CEO,Hospitality,479,Webinar,7,7,3,5,0,13,No,Yes,Immediate,2026-05-12,0
+L1178,Vertex Infra,Anjali Kapoor,Marketing Manager,Hospitality,629,Website,19,7,2,2,1,26,Yes,Yes,Immediate,2026-03-31,0
+L1179,Zenith Solutions,Isha Singh,Operations Manager,Real Estate,307,Partner,7,4,2,2,3,41,No,Yes,3-6 months,2026-05-30,0
+L1180,Kiran Traders,Rohan Joshi,Marketing Manager,Energy,111,Cold List,1,4,1,0,0,28,Yes,No,3-6 months,2026-07-12,0
+L1181,Sunrise Enterprises,Rohan Singh,Procurement Head,Logistics,19,LinkedIn,5,2,0,1,1,8,No,No,Not sure,2026-08-03,0
+L1182,Vertex Enterprises,Rohan Nair,Procurement Head,Education,206,Cold List,11,7,7,2,5,8,Yes,Yes,Immediate,2026-09-07,1
+L1183,Kiran Infra,Priya Nair,CEO,Education,200,Cold List,1,2,1,1,0,0,No,Yes,Not sure,2026-08-17,0
+L1184,Bharat Infra,Pooja Kapoor,Purchase Manager,Energy,41,Cold List,5,2,1,1,0,36,No,No,Not sure,2026-05-26,0
+L1185,Orion Technologies,Pooja Sharma,VP Operations,Construction,362,Webinar,8,2,2,1,0,52,No,No,1-3 months,2026-08-25,1
+L1186,Metro Group,Anjali Gupta,CEO,Healthcare,798,Cold List,15,6,2,2,3,24,No,No,Immediate,2026-05-04,0
+L1187,Orion Group,Pooja Joshi,Procurement Head,Energy,330,Website,13,11,4,1,1,60,Yes,Yes,Immediate,2026-05-06,1
+L1188,Astra Group,Priya Reddy,CEO,Construction,6,Website,6,3,1,0,1,49,No,Yes,3-6 months,2026-06-02,0
+L1189,Sunrise Systems,Meera Mehta,Purchase Manager,Manufacturing,44,Website,5,5,0,2,0,15,No,No,3-6 months,2026-07-05,0
+L1190,Bharat Group,Anjali Sharma,Purchase Manager,Real Estate,750,Webinar,5,2,1,0,0,17,No,No,Not sure,2026-05-05,0
+L1191,Nova Industries,Anjali Singh,VP Operations,Real Estate,73,Webinar,4,1,1,1,0,81,No,No,Not sure,2026-09-08,0
+L1192,Prime Industries,Isha Kapoor,Operations Manager,Retail,28,Webinar,8,5,5,1,3,5,Yes,No,1-3 months,2026-05-17,0
+L1193,Delta Traders,Isha Sharma,VP Operations,Construction,655,Referral,7,2,3,4,1,4,Yes,No,1-3 months,2026-06-08,0
+L1194,Prime Group,Rahul Singh,VP Operations,Healthcare,112,Website,2,1,3,0,0,180,No,No,Not sure,2026-07-16,0
+L1195,Bharat Infra,Vikram Malhotra,Marketing Manager,Healthcare,571,Cold List,5,2,2,0,0,31,Yes,No,1-3 months,2026-06-15,1
+L1196,Astra Enterprises,Rahul Sharma,Purchase Manager,Logistics,172,Trade Show,1,3,1,3,1,38,No,Yes,Not sure,2026-06-10,0
+L1197,Nova Industries,Vikram Joshi,Marketing Manager,Construction,209,Website,6,1,0,1,0,61,No,No,Not sure,2026-09-23,1
+L1198,Sunrise Solutions,Karan Gupta,Operations Manager,Logistics,253,Website,11,2,3,2,0,114,No,No,3-6 months,2026-06-16,0
+L1199,Astra Solutions,Karan Kapoor,VP Operations,Healthcare,302,Website,2,2,2,0,1,99,Yes,No,3-6 months,2026-04-19,0
+L1200,Sunrise Infra,Rohan Joshi,Procurement Head,Real Estate,3123,Webinar,17,4,4,3,4,16,Yes,Yes,Immediate,2026-08-08,1
+L1201,Metro Solutions,Sanjay Kapoor,Procurement Head,Energy,487,LinkedIn,12,5,1,2,3,62,No,No,1-3 months,2026-08-04,0
+L1202,Vertex Enterprises,Priya Gupta,Founder,Logistics,27,Partner,5,3,0,0,0,40,No,No,Not sure,2026-05-08,0
+L1203,Zenith Infra,Karan Reddy,Purchase Manager,Real Estate,391,LinkedIn,8,6,1,2,5,79,Yes,No,Immediate,2026-08-30,0
+L1204,Astra Infra,Vikram Joshi,VP Operations,Real Estate,529,LinkedIn,7,3,1,0,0,56,No,No,3-6 months,2026-06-08,0
+L1205,Apex Solutions,Isha Gupta,VP Operations,Real Estate,736,Website,7,7,2,1,3,37,No,No,1-3 months,2026-04-26,0
+L1206,Delta Industries,Isha Gupta,VP Operations,Energy,98,Cold List,4,3,0,0,1,53,No,No,3-6 months,2026-04-30,0
+L1207,Vertex Solutions,Vikram Sharma,Operations Manager,Healthcare,661,Webinar,11,3,3,1,1,5,Yes,No,1-3 months,2026-08-05,1
+L1208,Kiran Industries,Vikram Malhotra,Operations Manager,Logistics,283,Cold List,2,2,1,2,0,156,No,No,Not sure,2026-05-07,0
+L1209,Nova Solutions,Anjali Joshi,Procurement Head,Logistics,2880,LinkedIn,7,5,3,3,1,122,No,Yes,1-3 months,2026-06-22,0
+L1210,Nova Enterprises,Neha Nair,Founder,Retail,70,LinkedIn,4,5,1,0,1,11,No,No,3-6 months,2026-08-09,1
+L1211,Vertex Infra,Vikram Joshi,Operations Manager,Real Estate,75,Trade Show,1,4,0,0,0,3,No,No,Not sure,2026-08-30,0
+L1212,Sunrise Enterprises,Pooja Reddy,VP Operations,Manufacturing,144,LinkedIn,6,0,1,2,0,24,No,No,1-3 months,2026-06-26,1
+L1213,Zenith Technologies,Neha Mehta,Purchase Manager,Hospitality,74,Cold List,1,4,2,1,0,31,No,No,Not sure,2026-09-09,0
+L1214,Metro Solutions,Neha Mehta,Operations Manager,Manufacturing,64,Website,7,5,0,1,2,49,No,No,3-6 months,2026-05-23,0
+L1215,Delta Traders,Aarav Nair,CEO,Retail,13,LinkedIn,4,2,2,2,0,8,No,No,1-3 months,2026-09-03,1
+L1216,Astra Enterprises,Priya Gupta,Procurement Head,Energy,161,LinkedIn,7,7,4,3,2,14,No,Yes,Immediate,2026-05-14,0
+L1217,Zenith Traders,Aarav Kapoor,Operations Manager,Construction,298,Website,7,3,3,2,1,30,Yes,Yes,1-3 months,2026-04-10,0
+L1218,Zenith Infra,Rahul Kapoor,Procurement Head,Manufacturing,82,Cold List,4,2,1,0,0,6,No,No,3-6 months,2026-08-07,0
+L1219,Nova Systems,Aarav Singh,Marketing Manager,Education,1143,Website,6,2,2,0,0,10,Yes,No,3-6 months,2026-08-13,0
+L1220,Nova Industries,Pooja Reddy,Purchase Manager,Real Estate,113,Website,1,2,0,0,0,94,No,No,Not sure,2026-09-12,0
+L1221,Orion Solutions,Neha Verma,Founder,Real Estate,597,Partner,11,6,0,2,1,6,Yes,Yes,3-6 months,2026-09-11,0
+L1222,Vertex Group,Priya Malhotra,Purchase Manager,Healthcare,210,Webinar,7,5,2,1,1,161,No,Yes,3-6 months,2026-04-17,0
+L1223,Zenith Infra,Rohan Malhotra,Operations Manager,Manufacturing,665,LinkedIn,19,5,8,5,1,31,Yes,Yes,Immediate,2026-07-19,1
+L1224,Astra Group,Sanjay Malhotra,VP Operations,Retail,223,Website,8,6,2,0,0,101,No,No,3-6 months,2026-08-03,0
+L1225,Sunrise Traders,Isha Singh,Founder,Logistics,535,Website,8,0,1,0,1,11,No,No,3-6 months,2026-07-16,0
+L1226,Nova Enterprises,Isha Verma,Purchase Manager,Logistics,215,Webinar,10,6,3,0,1,17,Yes,No,1-3 months,2026-04-02,0
+L1227,Orion Solutions,Priya Gupta,Procurement Head,Construction,255,Website,4,1,2,1,1,90,No,No,3-6 months,2026-04-07,1
+L1228,Zenith Systems,Neha Sharma,CEO,Education,313,LinkedIn,10,7,3,4,1,24,No,No,1-3 months,2026-07-28,0
+L1229,Bharat Technologies,Rohan Verma,Founder,Energy,126,Cold List,5,2,2,0,0,180,No,No,3-6 months,2026-08-31,0
+L1230,Bharat Technologies,Vikram Sharma,Purchase Manager,Healthcare,286,Referral,11,2,5,2,3,60,Yes,Yes,1-3 months,2026-05-01,0
+L1231,Nova Group,Aarav Malhotra,Founder,Healthcare,1479,Website,10,3,3,1,0,180,No,No,3-6 months,2026-04-07,0
+L1232,Metro Solutions,Neha Sharma,Purchase Manager,Real Estate,133,Website,13,3,2,0,2,13,No,Yes,3-6 months,2026-06-10,0
+L1233,Metro Technologies,Aarav Verma,Procurement Head,Construction,252,Trade Show,6,1,3,1,0,140,No,No,3-6 months,2026-05-25,0
+L1234,Astra Solutions,Karan Kapoor,Founder,Energy,779,Website,6,4,1,5,0,6,No,No,1-3 months,2026-09-22,0
+L1235,Prime Infra,Sanjay Reddy,Marketing Manager,Hospitality,368,Website,3,3,1,0,1,117,No,No,Not sure,2026-09-12,0
+L1236,Metro Solutions,Neha Joshi,Marketing Manager,Education,171,Website,4,3,1,1,0,43,Yes,No,3-6 months,2026-07-08,0
+L1237,Metro Industries,Aarav Nair,Founder,Education,16,Website,7,5,1,0,2,1,No,No,3-6 months,2026-09-16,1
+L1238,Zenith Group,Vikram Kapoor,Operations Manager,Energy,515,Website,15,7,3,2,2,0,Yes,Yes,Immediate,2026-05-10,0
+L1239,Delta Enterprises,Priya Nair,Founder,Retail,26,Website,11,4,2,1,2,46,Yes,No,1-3 months,2026-09-24,1
+L1240,Apex Enterprises,Anjali Reddy,Operations Manager,Construction,673,LinkedIn,11,7,2,2,1,12,Yes,No,3-6 months,2026-06-18,0
+L1241,Kiran Group,Pooja Joshi,Founder,Healthcare,379,LinkedIn,16,9,7,3,3,5,Yes,No,Immediate,2026-06-23,1
+L1242,Sunrise Infra,Vikram Mehta,Operations Manager,Real Estate,504,Webinar,5,1,1,2,4,134,No,No,1-3 months,2026-04-08,1
+L1243,Nova Group,Sanjay Singh,Purchase Manager,Healthcare,97,LinkedIn,5,7,2,4,2,5,No,No,1-3 months,2026-04-30,1
+L1244,Delta Group,Rohan Mehta,Marketing Manager,Healthcare,51,Cold List,11,4,5,3,2,19,Yes,Yes,1-3 months,2026-05-03,0
+L1245,Kiran Group,Aarav Verma,Procurement Head,Education,420,Partner,11,7,3,0,1,8,No,Yes,Immediate,2026-06-25,0
+L1246,Kiran Industries,Anjali Joshi,Procurement Head,Logistics,184,Website,5,5,3,0,0,75,No,No,1-3 months,2026-05-03,0
+L1247,Prime Enterprises,Isha Gupta,Marketing Manager,Real Estate,172,Webinar,7,5,1,0,2,62,No,Yes,Immediate,2026-04-17,0
+L1248,Bharat Solutions,Anjali Verma,Procurement Head,Logistics,153,LinkedIn,3,1,0,3,0,33,No,No,3-6 months,2026-07-16,0
+L1249,Prime Technologies,Isha Gupta,VP Operations,Construction,4371,Webinar,11,8,1,4,1,42,No,Yes,Immediate,2026-09-03,1
+L1250,Zenith Industries,Isha Kapoor,Founder,Construction,483,Trade Show,7,10,4,0,1,8,No,No,1-3 months,2026-04-11,1
+L1251,Zenith Infra,Sanjay Singh,VP Operations,Logistics,547,Webinar,5,4,3,2,2,109,No,No,1-3 months,2026-07-08,0
+L1252,Apex Group,Pooja Nair,Purchase Manager,Hospitality,362,Website,5,3,0,1,2,2,No,No,3-6 months,2026-09-18,0
+L1253,Orion Infra,Meera Kapoor,CEO,Logistics,1283,Cold List,25,6,4,6,1,52,Yes,No,Immediate,2026-06-10,0
+L1254,Sunrise Group,Rahul Sharma,VP Operations,Hospitality,163,Website,10,2,4,0,1,34,No,Yes,1-3 months,2026-05-01,0
+L1255,Prime Industries,Rahul Joshi,VP Operations,Construction,24,Cold List,6,7,4,4,0,38,No,No,1-3 months,2026-04-13,0
+L1256,Metro Traders,Rohan Singh,Purchase Manager,Logistics,147,Cold List,5,5,3,1,0,77,No,No,3-6 months,2026-09-14,1
+L1257,Prime Technologies,Isha Gupta,Operations Manager,Retail,241,Cold List,0,0,0,0,0,19,No,No,Not sure,2026-06-10,0
+L1258,Prime Traders,Anjali Nair,VP Operations,Real Estate,101,Partner,16,9,4,2,3,32,Yes,No,Immediate,2026-04-17,1
+L1259,Astra Group,Meera Malhotra,Marketing Manager,Manufacturing,110,LinkedIn,11,6,0,0,0,44,No,No,Not sure,2026-09-01,0
+L1260,Orion Technologies,Neha Gupta,VP Operations,Manufacturing,137,Referral,16,9,2,3,4,29,No,No,Immediate,2026-08-21,0
+L1261,Bharat Traders,Pooja Reddy,Procurement Head,Education,1150,Website,13,8,5,1,3,17,No,Yes,Immediate,2026-08-03,0
+L1262,Metro Technologies,Rohan Gupta,VP Operations,Retail,403,Cold List,9,6,3,0,1,4,No,No,1-3 months,2026-04-14,1
+L1263,Sunrise Systems,Vikram Reddy,Marketing Manager,Energy,240,Trade Show,1,4,1,0,1,138,No,No,Not sure,2026-04-13,0
+L1264,Orion Technologies,Priya Nair,Operations Manager,Energy,225,Website,5,1,0,0,0,54,No,No,Not sure,2026-05-08,0
+L1265,Metro Technologies,Anjali Nair,Marketing Manager,Manufacturing,182,Website,6,6,1,2,2,21,No,No,1-3 months,2026-04-27,0
+L1266,Kiran Infra,Neha Nair,Purchase Manager,Education,219,LinkedIn,8,4,2,1,1,60,Yes,No,3-6 months,2026-07-03,1
+L1267,Prime Systems,Pooja Verma,Purchase Manager,Manufacturing,35,LinkedIn,6,1,0,0,1,14,No,No,Not sure,2026-06-08,0
+L1268,Zenith Group,Priya Nair,Marketing Manager,Healthcare,19,Website,4,4,4,2,1,143,Yes,Yes,3-6 months,2026-08-14,0
+L1269,Zenith Traders,Meera Nair,Purchase Manager,Energy,138,Cold List,5,3,1,1,2,6,No,No,Not sure,2026-04-17,0
+L1270,Vertex Enterprises,Karan Nair,Purchase Manager,Real Estate,199,Webinar,3,3,0,0,1,47,Yes,No,3-6 months,2026-08-08,0
+L1271,Apex Technologies,Meera Sharma,CEO,Energy,650,Partner,4,2,1,1,1,137,No,No,1-3 months,2026-09-14,0
+L1272,Orion Group,Isha Mehta,Founder,Hospitality,556,Trade Show,4,3,0,0,0,180,No,Yes,Not sure,2026-04-22,0
+L1273,Delta Solutions,Aarav Mehta,Founder,Manufacturing,639,Cold List,4,1,0,0,1,17,Yes,No,Not sure,2026-07-25,0
+L1274,Zenith Technologies,Anjali Sharma,Procurement Head,Real Estate,58,Webinar,7,6,1,2,1,3,No,No,3-6 months,2026-06-29,0
+L1275,Vertex Solutions,Pooja Gupta,Marketing Manager,Energy,148,Webinar,10,3,2,1,1,22,No,No,1-3 months,2026-04-16,0
+L1276,Vertex Solutions,Priya Mehta,Procurement Head,Energy,284,Partner,5,2,2,2,0,10,Yes,No,3-6 months,2026-05-21,0
+L1277,Vertex Technologies,Isha Joshi,CEO,Construction,1598,Cold List,2,2,1,3,0,37,No,No,Not sure,2026-08-18,0
+L1278,Nova Technologies,Isha Gupta,Founder,Education,760,Webinar,7,3,0,0,3,11,Yes,No,3-6 months,2026-09-02,0
+L1279,Bharat Infra,Rahul Kapoor,Operations Manager,Real Estate,603,Website,10,3,5,1,1,1,Yes,No,1-3 months,2026-06-04,1
+L1280,Prime Systems,Anjali Reddy,CEO,Real Estate,91,Cold List,3,2,2,1,0,17,Yes,No,3-6 months,2026-04-18,0
+L1281,Delta Industries,Aarav Joshi,Operations Manager,Real Estate,72,Referral,8,4,0,5,2,155,No,No,3-6 months,2026-05-13,0
+L1282,Nova Infra,Pooja Mehta,Marketing Manager,Education,680,Website,16,6,8,1,3,3,No,Yes,Immediate,2026-08-28,0
+L1283,Metro Solutions,Karan Mehta,Purchase Manager,Real Estate,44,Website,3,2,0,2,1,19,No,No,Not sure,2026-07-10,0
+L1284,Sunrise Solutions,Aarav Nair,VP Operations,Real Estate,190,LinkedIn,8,6,4,0,0,19,No,Yes,1-3 months,2026-06-15,1
+L1285,Vertex Systems,Sanjay Malhotra,Founder,Energy,299,Website,15,9,3,3,1,30,Yes,Yes,Immediate,2026-04-01,1
+L1286,Sunrise Enterprises,Pooja Mehta,Purchase Manager,Energy,671,Website,3,3,0,1,2,109,No,No,3-6 months,2026-08-17,0
+L1287,Bharat Infra,Pooja Reddy,Marketing Manager,Manufacturing,94,Partner,1,3,0,0,0,50,No,Yes,3-6 months,2026-06-21,0
+L1288,Prime Traders,Meera Nair,Procurement Head,Retail,22,LinkedIn,15,6,1,2,3,101,Yes,Yes,Immediate,2026-07-06,0
+L1289,Bharat Technologies,Pooja Joshi,Operations Manager,Manufacturing,234,LinkedIn,5,5,0,1,1,13,Yes,No,3-6 months,2026-08-28,0
+L1290,Astra Solutions,Neha Sharma,Founder,Energy,63,Partner,1,1,1,3,1,126,No,No,Not sure,2026-07-09,0
+L1291,Metro Systems,Vikram Reddy,Founder,Construction,140,Website,5,1,0,1,0,36,No,No,3-6 months,2026-09-13,0
+L1292,Metro Group,Sanjay Mehta,VP Operations,Energy,265,Cold List,13,6,3,6,4,39,Yes,Yes,Immediate,2026-07-08,1
+L1293,Metro Solutions,Karan Malhotra,CEO,Healthcare,93,Referral,6,3,1,3,0,8,No,No,Not sure,2026-05-30,0
+L1294,Vertex Systems,Vikram Mehta,Operations Manager,Retail,256,Webinar,1,2,1,0,0,53,No,No,Not sure,2026-09-12,0
+L1295,Bharat Systems,Karan Mehta,Marketing Manager,Education,35,Website,6,3,1,4,0,54,No,Yes,3-6 months,2026-07-23,0
+L1296,Vertex Solutions,Pooja Malhotra,Marketing Manager,Real Estate,176,Webinar,8,6,2,3,0,43,Yes,Yes,Immediate,2026-08-13,0
+L1297,Prime Enterprises,Karan Mehta,Operations Manager,Education,400,Webinar,9,6,2,3,1,180,Yes,No,1-3 months,2026-05-09,0
+L1298,Metro Technologies,Meera Verma,VP Operations,Manufacturing,105,Website,10,7,0,0,3,119,Yes,No,1-3 months,2026-07-28,0
+L1299,Nova Industries,Anjali Gupta,VP Operations,Logistics,66,Partner,14,13,7,1,3,15,Yes,No,Immediate,2026-07-08,0
